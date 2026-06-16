@@ -1,0 +1,67 @@
+/* Global App Customizations */
+.stApp {
+    background-color: #f8f9fa;
+}
+
+/* Custom Cards for KPI Metrics */
+div[data-testid="stMetricValue"] {
+    font-size: 28px;
+    font-weight: 700;
+    color: #1E3A8A;
+}
+
+div[data-testid="stMetricLabel"] {
+    font-size: 14px;
+    font-weight: 600;
+    color: #4B5563;
+}
+
+/* Chat Interface Styling */
+.chat-bubble {
+    padding: 12px 16px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    max-width: 80%;
+}
+.client-bubble {
+    background-color: #E0F2FE;
+    color: #0369A1;
+    margin-left: auto;
+}
+.bot-bubble {
+    background-color: #F3F4F6;
+    color: #1F2937;
+}/* Global App Customizations */
+.stApp {
+    background-color: #f8f9fa;
+}
+
+/* Custom Cards for KPI Metrics */
+div[data-testid="stMetricValue"] {
+    font-size: 28px;
+    font-weight: 700;
+    color: #1E3A8A;
+}
+
+div[data-testid="stMetricLabel"] {
+    font-size: 14px;
+    font-weight: 600;
+    color: #4B5563;
+}
+
+/* Chat Interface Styling */
+.chat-bubble {
+    padding: 12px 16px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    max-width: 80%;
+}
+.client-bubble {
+    background-color: #E0F2FE;
+    color: #0369A1;
+    margin-left: auto;
+}
+.bot-bubble {
+    background-color: #F3F4F6;
+    color: #1F2937;
+}
